@@ -12,6 +12,4 @@ ZSEM 5-th grade student.<br>I'm currently learning.<br>I like Full-Stack Develop
 ![](https://streak-stats.demolab.com/?user=tomnoal123&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tomnoal123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=tomnoal123&icon=0&color=0)](https://visitcount.itsvg.in)
 
