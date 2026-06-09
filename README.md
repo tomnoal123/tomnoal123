@@ -1,5 +1,5 @@
 # 💫 About Me:
-<strong>ZSEM 5-th grade student.<br>I'm currently learning.<br>I aim to become Full-Stack Developer.<br>My goal is to find an intership to increase my skills.</strong>
+<strong>ZSEM 5-th grade student.<br>I'm currently learning.<br>My goal is to find an intership to increase my skills.</strong>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tomnoal123@gmail.com) 
